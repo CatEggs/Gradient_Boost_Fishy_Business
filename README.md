@@ -1,1 +1,1 @@
-Created a machine learning model that predicts the weight of fish
+Created a machine learning model, using gradient boosting, that predicts the weight of fish. 
